@@ -1,3 +1,5 @@
+""after downloading please make git folder name as .git ""
+
 # Car-Management-System
 💡 Features
 Add new car details (Model, Brand, Price, Year, etc.)
